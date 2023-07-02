@@ -1,0 +1,9 @@
+.active {
+    text-decoration: underline;
+    color: black;
+}
+
+.disabled {
+    pointer-events: none;
+    cursor: not-allowed;
+}
